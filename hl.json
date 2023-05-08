@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 44.5136,
+        "lat": 40.1811
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 287.24,
+        "feels_like": 286.04,
+        "temp_min": 287.24,
+        "temp_max": 287.24,
+        "pressure": 1008,
+        "humidity": 51
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.03,
+        "deg": 300
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1679322935,
+    "sys": {
+        "type": 1,
+        "id": 8851,
+        "country": "AM",
+        "sunrise": 1679281581,
+        "sunset": 1679325168
+    },
+    "timezone": 14400,
+    "id": 616052,
+    "name": "Yerevan",
+    "cod": 200
+}
